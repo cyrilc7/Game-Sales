@@ -138,7 +138,7 @@ The analysis results are summarized as follows:
         * Nintendo: focuses more on quality than quantity (releases much less games than its competitors) and gets most of its profit from older games (before 2010)
         * EA and Activision: release a lot of games, get astonishing market shares anywhere except in Japan. EA focuses on Sports games while Activision focuses on Shooter Games
 
-### *Recommendations
+### *Recommendations*
 You can get many insights from this analysis if you are a company or a developer. If you are a developer, we recommend to focus on:
    * Recent versions of the PlayStation series, the XBox Series, or the Nintendo consoles
    * Action and Sports games if you plan on targetting all regions, or releasing high-performing niches (Role-Playing games in Japan or Shooter games everywhere else)
