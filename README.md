@@ -26,11 +26,13 @@ Data Processing / Data Analysis / Data Visualization: ***Python***
 ## Analysis TOC:
 
 **Data Preparation**
+
     Loading Libraries
     Loding Data
     Data Preprocessing
 
 **Market Analysis**
+
     I. Best selling video games
     II. Platforms Analysis
         1. By Number of Games Released
@@ -60,6 +62,7 @@ Data Processing / Data Analysis / Data Visualization: ***Python***
                 a. By Genre
                 b. By Platform
 **Conclusion**
+
     I. The video games market
     II. Case use
         a. As a developer
