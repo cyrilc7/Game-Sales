@@ -1,5 +1,8 @@
 # Game Sales Analysis - A Data Analysis Project
 
+## Read This Project
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@cyrilc7/in-depth-analysis-of-the-video-games-market-from-1980-to-2020-a-python-project-824d76dd6397)
+
 ## Table of Contents
 
  * [Project Overview](#project-overview)
