@@ -31,7 +31,7 @@ Data Processing / Data Analysis / Data Visualization: ***Python***
 **Data Preparation**
 
     Loading Libraries
-    Loding Data
+    Loading Data
     Data Preprocessing
 
 **Market Analysis**
@@ -157,4 +157,4 @@ However, the dataset and the analysis still managed to achieved its goal of obse
 
 ## Go Further
 
-One interesting ideas to complete the analysis of the industry would be to perform an analysis on the impact of the Corona on the video games market.
+One interesting ideas to complete the analysis of the industry would be to perform an analysis on the impact of the Corona Virus on the video games market.
